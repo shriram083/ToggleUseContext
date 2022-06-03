@@ -1,0 +1,36 @@
+.container{
+    background-color: #292e33;
+    margin: 50px;
+    padding: 20px;
+}
+.innerBox{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    align-items: center;
+}
+.nameBox{
+    text-align: left;
+}
+.nameBox h3{
+    color: #54616c;
+}
+.imgName{
+    display: flex;
+    gap: 10px;
+}
+.light{
+    background-color: white;
+}
+.points{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}

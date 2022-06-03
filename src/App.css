@@ -1,7 +1,16 @@
 .App {
   text-align: center;
+  height: 100vh;
+  display: flex;
 }
-
+.dark {
+  background-color: #1f2327;
+  color: aliceblue;
+}
+.light {
+  color: #282c34;
+  background-color: #f5f6fa;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
